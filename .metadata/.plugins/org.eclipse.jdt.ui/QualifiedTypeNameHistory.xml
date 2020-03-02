@@ -9,7 +9,9 @@
 <fullyQualifiedTypeName name="entities.Employee"/>
 <fullyQualifiedTypeName name="entities.Order"/>
 <fullyQualifiedTypeName name="entities.enums.OrderStatus"/>
-<fullyQualifiedTypeName name="java.util.Date"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="entities.Worker"/>
+<fullyQualifiedTypeName name="entities.Comment"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="entities.Client"/>
 </qualifiedTypeNameHistroy>
